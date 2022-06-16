@@ -1,0 +1,45 @@
+
+
+.wrapper{
+    background-color: aquamarine;
+    width:500px;
+    height: 1000px;
+    margin: 80px auto;
+    padding-top: 30px;
+}
+.wrapInput{
+    background-color: rgba(255, 127, 223, 0.384);
+    display: block;
+    width:300px;
+    margin: 0 auto;
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+}
+form{
+    margin: 0 auto;
+}
+.inputText {
+    display: block;
+    margin: 2vh auto;
+    height: 5vh;
+    text-align: center;
+
+}.wrapperCheckBox{
+    display: flex;
+    width: 300px;
+    margin: 0 auto;
+    justify-content: space-between;
+    background-color: rgba(161, 14, 154, 0.384);
+    margin-top: 2vh;
+    
+}
+.btn{
+    width:300px;
+    height: 5vh;
+    font-size: 20px;
+    background-color: rgba(161, 14, 154, 0.6);
+   
+}
+.submit{
+    text-align: center;
+}
